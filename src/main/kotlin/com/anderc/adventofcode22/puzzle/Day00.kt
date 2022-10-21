@@ -2,7 +2,7 @@ package com.anderc.adventofcode22.puzzle
 
 import com.anderc.adventofcode22.util.FileLoader
 
-object Day01 {
+object Day00 {
     fun printSolution() {
         println("Solution 1: ${part1("/day01.txt")}")
         println("Solution 2: ${part2("/day01_sample.txt")}")
