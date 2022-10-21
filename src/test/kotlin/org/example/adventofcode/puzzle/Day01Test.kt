@@ -1,4 +1,4 @@
-package com.anderc.adventofcode22.puzzle
+package org.example.adventofcode.puzzle
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

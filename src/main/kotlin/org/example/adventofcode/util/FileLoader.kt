@@ -1,4 +1,4 @@
-package com.anderc.adventofcode22.util
+package org.example.adventofcode.util
 
 import java.util.stream.Collectors
 

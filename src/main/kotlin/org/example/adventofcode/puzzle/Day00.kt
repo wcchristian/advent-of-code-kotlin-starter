@@ -1,6 +1,6 @@
-package com.anderc.adventofcode22.puzzle
+package org.example.adventofcode.puzzle
 
-import com.anderc.adventofcode22.util.FileLoader
+import org.example.adventofcode.util.FileLoader
 
 object Day00 {
     fun printSolution() {

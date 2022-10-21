@@ -23,5 +23,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("com.anderc.adventofcode22.AppKt")
+    mainClass.set("org.example.adventofcode.AppKt")
 }
