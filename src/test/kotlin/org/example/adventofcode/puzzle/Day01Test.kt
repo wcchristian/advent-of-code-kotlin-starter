@@ -6,8 +6,8 @@ import kotlin.test.assertEquals
 internal class Day01Test {
 
     @Test
-    fun samplePart1() {
-        assertEquals("this", Day01.part1("/day01_sample.txt"))
+    fun examplePart1() {
+        assertEquals("this", Day01.part1("/day01_example.txt"))
     }
 
     @Test
@@ -16,8 +16,8 @@ internal class Day01Test {
     }
 
     @Test
-    fun samplePart2() {
-        assertEquals("is", Day01.part2("/day01_sample.txt"))
+    fun examplePart2() {
+        assertEquals("is", Day01.part2("/day01_example.txt"))
     }
 
     @Test

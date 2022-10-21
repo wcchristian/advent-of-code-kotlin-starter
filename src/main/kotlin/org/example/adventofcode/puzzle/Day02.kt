@@ -4,7 +4,9 @@ import org.example.adventofcode.util.FileLoader
 
 object Day02 {
     fun printSolution() {
+        println("Example 1: ${part1("/day02_example.txt")}")
         println("Solution 1: ${part1("/day02.txt")}")
+        println("Example 2: ${part2("/day02_example.txt")}")
         println("Solution 2: ${part2("/day02.txt")}")
     }
 
