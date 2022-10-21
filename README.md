@@ -1,6 +1,7 @@
 # Advent of Code YYYY
 
 [![Java CI with Gradle](https://github.com/wcchristian/advent-of-code-kotlin-starter/actions/workflows/gradle.yml/badge.svg)](https://github.com/wcchristian/advent-of-code-kotlin-starter/actions/workflows/gradle.yml)
+
 This repo houses my solutions for Advent of Code YYYY
 
 https://adventofcode.com/
