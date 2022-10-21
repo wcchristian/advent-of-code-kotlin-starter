@@ -22,3 +22,6 @@ when statement.
 Java 17
 Gradle 7.5.1
 Kotlin 1.7.20
+
+# Build Status
+[![Java CI with Gradle](https://github.com/wcchristian/advent-of-code-kotlin-starter/actions/workflows/gradle.yml/badge.svg)](https://github.com/wcchristian/advent-of-code-kotlin-starter/actions/workflows/gradle.yml)
