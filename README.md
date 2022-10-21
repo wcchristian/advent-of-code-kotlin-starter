@@ -17,3 +17,8 @@ Each Day...
 
 NOTE: The FileLoader handles a few types automatically but depending on the input for the puzzle you may have to add cases to the
 when statement.
+
+# Versions
+Java 17
+Gradle 7.5.1
+Kotlin 1.7.20
