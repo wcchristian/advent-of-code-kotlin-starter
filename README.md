@@ -14,3 +14,6 @@ Each Day...
 2. Duplicate Day00.kt in the puzzle package and name it according to the day of the puzzle (Day00 is a template file)
 3. Go to App.kt and add a new entry to call for the new puzzle
 4. Duplicate one of the test files and adjust for your new DayXX.kt with the expected results.
+
+NOTE: The FileLoader handles a few types automatically but depending on the input for the puzzle you may have to add cases to the
+when statement.
