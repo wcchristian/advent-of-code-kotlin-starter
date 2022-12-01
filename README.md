@@ -1,8 +1,8 @@
-# Advent of Code YYYY
+# Advent of Code XXXX
 
-[![Java CI with Gradle](https://github.com/wcchristian/advent-of-code-kotlin-starter/actions/workflows/gradle.yml/badge.svg)](https://github.com/wcchristian/advent-of-code-kotlin-starter/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/wcchristian/advent-of-code-2022/actions/workflows/gradle.yml/badge.svg)](https://github.com/wcchristian/advent-of-code-2022/actions/workflows/gradle.yml)
 
-This repo houses my solutions for Advent of Code YYYY
+This repo houses my solutions for Advent of Code XXXXS
 
 https://adventofcode.com/
 
@@ -15,8 +15,6 @@ You can also check them for accuracy by using `./gradlew test`.
 Each Day...
 1. Copy the input and example input into the resources directory
 2. Duplicate Day00.kt in the puzzle package and name it according to the day of the puzzle (Day00 is a template file)
-3. Go to App.kt and add a new entry to call for the new puzzle
-4. Duplicate one of the test files and adjust for your new DayXX.kt with the expected results.
 
 NOTE: The FileLoader handles a few types automatically but depending on the input for the puzzle you may have to add cases to the
 when statement.
