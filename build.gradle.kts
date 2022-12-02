@@ -20,8 +20,3 @@ dependencies {
 
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 }
-
-application {
-    // Define the main class for the application.
-    mainClass.set("org.example.adventofcode.AppKt")
-}
